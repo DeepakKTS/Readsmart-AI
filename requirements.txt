@@ -58,4 +58,5 @@ tornado==6.5.1
 transformers==4.53.2
 tzdata==2025.2
 wheel==0.45.1
-sentencepiece>=0.1.99
+sentencepiece==0.1.99
+
